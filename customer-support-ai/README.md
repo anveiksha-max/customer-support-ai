@@ -146,16 +146,3 @@ at `http://localhost:8000`.
 - MongoDB Atlas: make sure Network Access allows connections from anywhere (0.0.0.0/0)
   so Render can reach it
 
-## Deliverables checklist
-
-- Source code (frontend + backend): this repo
-- Project report (Word doc): `Project_Report.docx` in the project root — fill in
-  your name/college on the title page, and **add real screenshots** to the last
-  section before submitting
-- README with setup instructions: this file
-- Demonstration video: **you'll need to record this yourself** — a short screen
-  recording walking through login, a few different query types, and the escalation
-  behavior is enough
-- Knowledge base documents (PDFs): `knowledge_base/` (8 documents)
-- Deployment links: see "Live Deployment" section above
-
