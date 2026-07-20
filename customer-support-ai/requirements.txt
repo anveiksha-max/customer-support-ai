@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain-groq
+langchain-core
+sentence-transformers
+faiss-cpu
+python-dotenv
+pydantic[email]
+numpy
+pymongo
+bcrypt
+python-jose[cryptography]
+pypdf
